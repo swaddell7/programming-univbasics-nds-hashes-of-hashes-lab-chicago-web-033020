@@ -48,8 +48,6 @@ def naming_system
     label: "Phylum",
     sub_category: {
       label: "Class"
-    }
-  },
-  
+      s
 }
 end
